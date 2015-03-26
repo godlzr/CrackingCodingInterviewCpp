@@ -7,9 +7,14 @@
 //
 
 #include <iostream>
+#include "stringHelper.h"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    stringHelper strHp;
+    char a[] = "asdfhiwuhfeiuasvuda";
+    strHp.reverse(a);
+    
+    std::cout << a;
     return 0;
 }
