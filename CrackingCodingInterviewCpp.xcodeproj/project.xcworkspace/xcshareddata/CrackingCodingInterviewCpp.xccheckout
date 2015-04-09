@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3D317FFF-96E6-4E81-90C2-04D1C29495E9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CrackingCodingInterviewCpp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>803545F69BF0ABBB6A3EA60352065B0852133364</key>
+		<string>github.com:godlzr/CrackingCodingInterviewCpp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CrackingCodingInterviewCpp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>803545F69BF0ABBB6A3EA60352065B0852133364</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:godlzr/CrackingCodingInterviewCpp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>803545F69BF0ABBB6A3EA60352065B0852133364</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>803545F69BF0ABBB6A3EA60352065B0852133364</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CrackingCodingInterviewCpp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
